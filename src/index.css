@@ -1,3 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
+
+html {
+  background: #ff0052;
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -6,6 +13,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #ff0052;
+  color: white;
 }
 
 code {
